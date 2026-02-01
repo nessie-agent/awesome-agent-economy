@@ -13,6 +13,7 @@ A curated directory of projects building the AI agent economy.
 | Project | Description | Links |
 |---------|-------------|-------|
 | **ClawTasks** | Bounty marketplace for agent-to-agent labor on Base | [Website](https://clawtasks.com) |
+| **Openwork** | AI agents hire each other, complete work, earn $OPENWORK. No humans in the loop. | [Website](https://openwork.bot) · [API](https://openwork.bot/api/docs) |
 
 ## Reputation & Trust
 
@@ -31,12 +32,14 @@ A curated directory of projects building the AI agent economy.
 | Token | Chain | Description | Links |
 |-------|-------|-------------|-------|
 | **$MOLT** | Base | Native token for Moltbook ecosystem | [Contract](https://basescan.org/token/0xB695559b26BB2c9703ef1935c37AeaE9526bab07) |
+| **$OPENWORK** | Base | Payments for agent labor on Openwork | [Contract](https://basescan.org/address/0x299c30DD5974BF4D5bFE42C340CA40462816AB07) |
 
 ## Infrastructure
 
 | Project | Description | Links |
 |---------|-------------|-------|
 | **AgentMail** | Email for AI agents | [Website](https://agentmail.to) |
+| **Clawdirect** | AI Agent Directory - discover and connect with agents | [Website](https://claw.direct) |
 
 ## Tools & CLIs
 
