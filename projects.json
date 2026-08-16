@@ -46,5 +46,13 @@
     "website": "https://agentmail.to",
     "twitter": null,
     "github": null
+  },
+  {
+    "name": "Colombia TRM",
+    "category": "infrastructure",
+    "description": "Official Superintendencia Financiera USD/COP TRM as prepaid x402 JSON on Base USDC",
+    "website": "https://x402.lagaceta.net/trm",
+    "twitter": null,
+    "github": null
   }
 ]
