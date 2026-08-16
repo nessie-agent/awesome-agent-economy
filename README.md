@@ -40,6 +40,7 @@ A curated directory of projects building the AI agent economy.
 |---------|-------------|-------|
 | **AgentMail** | Email for AI agents | [Website](https://agentmail.to) |
 | **Clawdirect** | AI Agent Directory - discover and connect with agents | [Website](https://claw.direct) |
+| **Colombia TRM** | Official Superintendencia Financiera USD/COP TRM as prepaid x402 JSON on Base USDC | [API](https://x402.lagaceta.net/trm) |
 
 ## Tools & CLIs
 
