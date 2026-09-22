@@ -40,6 +40,7 @@ A curated directory of projects building the AI agent economy.
 |---------|-------------|-------|
 | **AgentMail** | Email for AI agents | [Website](https://agentmail.to) |
 | **Clawdirect** | AI Agent Directory - discover and connect with agents | [Website](https://claw.direct) |
+| **Feeless402** | Self-custodied Nano (XNO) wallet + x402 payment client for AI agents - feeless, sub-second on-ledger settlement | [GitHub](https://github.com/Feeless402/feeless402) |
 
 ## Tools & CLIs
 
