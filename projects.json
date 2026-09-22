@@ -46,5 +46,13 @@
     "website": "https://agentmail.to",
     "twitter": null,
     "github": null
+  },
+  {
+    "name": "Feeless402",
+    "category": "infrastructure",
+    "description": "Self-custodied Nano (XNO) wallet + x402 payment client for AI agents - feeless, sub-second on-ledger settlement",
+    "website": null,
+    "twitter": null,
+    "github": "https://github.com/Feeless402/feeless402"
   }
 ]
