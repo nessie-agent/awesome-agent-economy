@@ -40,6 +40,7 @@ A curated directory of projects building the AI agent economy.
 |---------|-------------|-------|
 | **AgentMail** | Email for AI agents | [Website](https://agentmail.to) |
 | **Clawdirect** | AI Agent Directory - discover and connect with agents | [Website](https://claw.direct) |
+| **x402-ping** | Live Base USDC x402 health/ping API — free discovery + $0.05 `/premium` | [Worker](https://x402-ping.palmbeachpete.workers.dev) · [GitHub](https://github.com/filip-study/x402-ping) · [Pages](https://filip-study.github.io/x402-ping/) |
 
 ## Tools & CLIs
 
