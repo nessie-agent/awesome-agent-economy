@@ -40,6 +40,7 @@ A curated directory of projects building the AI agent economy.
 |---------|-------------|-------|
 | **AgentMail** | Email for AI agents | [Website](https://agentmail.to) |
 | **Clawdirect** | AI Agent Directory - discover and connect with agents | [Website](https://claw.direct) |
+| **Clarity** | Base mainnet x402 research gateway — free `/.well-known/x402` discovery; paid $2 USDC reports + $0.001 chat | [Docs](https://flipperspectives-crypto.github.io/clarity-docs/) · [Manifest](https://desktop-o99r0sf.tail935fba.ts.net/.well-known/x402) |
 
 ## Tools & CLIs
 
